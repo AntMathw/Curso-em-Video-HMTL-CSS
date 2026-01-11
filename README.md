@@ -1,6 +1,6 @@
 # CURSO EM VÍDEO HTML/CSS
 
-# 🚀 Curso de HTML5 e CSS3: Do Zero ao Profissional
+# 🚀 Curso de HTML5 e CSS3
 Este repositório contém todos os meus estudos, exercícios e projetos práticos desenvolvidos durante o curso de HTML e CSS. O foco é dominar a estrutura de páginas web e a estilização moderna, criando interfaces responsivas e acessíveis.
 
 # 📌 Sobre o Curso
